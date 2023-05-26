@@ -1,5 +1,4 @@
-from helpers import clear_screen
-
+'from helpers import clear_screen
 
 # Constante com as opções do menu
 MENU_OPTIONS = """
